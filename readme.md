@@ -7,7 +7,7 @@ Thank you to all who contributed to the initial release, especially Bridget Will
 
 <h3>License</h3>
 
-The text in the white paper (not including the WordPress logo or trademark) is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+The text (not including the WordPress logo or trademark) is licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 <h3>Translations</h3>
 
